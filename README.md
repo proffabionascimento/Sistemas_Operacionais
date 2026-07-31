@@ -1,9 +1,9 @@
-🖥️ Sistemas Operacionais
+<h1>🖥️ Sistemas Operacionais</h1>
 
 Bem-vindo ao repositório da disciplina de Sistemas Operacionais.
 
 Este espaço foi criado para disponibilizar materiais de apoio, e conteúdos complementares utilizados durante a disciplina.
-
+<br><br>
 
 📚 Bibliografia 
 
