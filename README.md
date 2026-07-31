@@ -8,7 +8,7 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
 <h1>📚 Bibliografia</h1>
 <br><br>
 
-- RIBEIRO, Uirá. Certificação Linux para LPIC-1: guia completo para o exame 101 da LPI. São Paulo: Novatec, 2015.
+- RIBEIRO, Uirá. Certificação Linux para LPIC-1: guia completo para o exame 101 da LPI. São Paulo: Novatec, 2015. <a href="https://github.com/proffabionascimento/Ebooks/blob/main/Linux-LPIC_101%20-%20Ribeiro.pdf" title="Acessar">📝</a>
 
 - RUSSINOVICH, Mark; SOLOMON, David A.; IONESCU, Alex; YOSIFOVICH, Pavel. Windows Internals: System Architecture, Processes, Threads, Memory Management, and More. Part 1. 7. ed. Redmond: Microsoft Press, 2021.
 
