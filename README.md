@@ -10,3 +10,15 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
 > 📘 **Certificação Linux para LPIC-1**  
 > Uirá Ribeiro • Novatec, 2015  
 > **[📖 Abrir Livro](LINK)**
+
+---
+
+> 📘 **Windows Internals**  
+> Mark Russinovich et al. • Microsoft Press, 2021  
+> **[📖 Abrir Livro](LINK)**
+
+---
+
+> 📘 **Sistemas Operacionais Modernos**  
+> Andrew S. Tanenbaum • Pearson, 2016  
+> **[📖 Abrir Livro](LINK)**
