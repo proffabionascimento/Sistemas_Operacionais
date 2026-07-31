@@ -15,10 +15,10 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
 
 > 📘 **Windows Internals**  
 > Mark Russinovich et al. • Microsoft Press, 2021  
-> **[📖 Abrir Livro](LINK)**
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebooks/blob/main/Windows%20Internals%20Part%201_6th%20Edition.pdf)**
 
 ---
 
 > 📘 **Sistemas Operacionais Modernos**  
 > Andrew S. Tanenbaum • Pearson, 2016  
-> **[📖 Abrir Livro](LINK)**
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebooks/blob/main/Sistemas%20Operacionais%20Modernos%20-%20%20Tanenbaum_%20Bos.pdf)**
