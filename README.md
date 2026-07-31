@@ -6,10 +6,40 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
 <br><br><br>
 
 <h1>📚 Bibliografia</h1>
-<br><br>
 
-- RIBEIRO, Uirá. Certificação Linux para LPIC-1: guia completo para o exame 101 da LPI. São Paulo: Novatec, 2015. <a href="https://github.com/proffabionascimento/Ebooks/blob/main/Linux-LPIC_101%20-%20Ribeiro.pdf" title="Acessar">📝</a>
-
-- RUSSINOVICH, Mark; SOLOMON, David A.; IONESCU, Alex; YOSIFOVICH, Pavel. Windows Internals: System Architecture, Processes, Threads, Memory Management, and More. Part 1. 7. ed. Redmond: Microsoft Press, 2021.
-
-- TANENBAUM, Andrew S.; BOS, Herbert. Sistemas Operacionais Modernos. 4. ed. São Paulo: Pearson, 2016.
+<table>
+    <thead>
+        <tr>
+            <th>Livro</th>
+            <th width="90">Material</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <strong>RIBEIRO, Uirá.</strong> <em>Certificação Linux para LPIC-1: guia completo para o exame 101 da LPI.</em> São Paulo: Novatec, 2015.
+            </td>
+            <td align="center">
+                <a href="https://github.com/proffabionascimento/Ebooks/blob/main/Linux-LPIC_101%20-%20Ribeiro.pdf" title="Abrir livro">
+                    📖
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>RUSSINOVICH, Mark;</strong> SOLOMON, David A.; IONESCU, Alex; YOSIFOVICH, Pavel. <em>Windows Internals: System Architecture, Processes, Threads, Memory Management, and More - Part 1.</em> 7. ed. Redmond: Microsoft Press, 2021.
+            </td>
+            <td align="center">
+                📄
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>TANENBAUM, Andrew S.; BOS, Herbert.</strong> <em>Sistemas Operacionais Modernos.</em> 4. ed. São Paulo: Pearson, 2016.
+            </td>
+            <td align="center">
+                📄
+            </td>
+        </tr>
+    </tbody>
+</table>
