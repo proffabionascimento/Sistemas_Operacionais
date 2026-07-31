@@ -40,7 +40,7 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
             <td>
                 <strong>TANENBAUM, Andrew S.; BOS, Herbert.</strong> <em>Sistemas Operacionais Modernos.</em> 4. ed. São Paulo: Pearson, 2016.
             </td>
-            <a href="https://github.com/proffabionascimento/Ebooks/blob/main/Sistemas%20Operacionais%20Modernos%20-%20%20Tanenbaum_%20Bos.pdf" title="Abrir livro">    📖
+            <a href="https://github.com/proffabionascimento/Ebooks/blob/main/Sistemas%20Operacionais%20Modernos%20-%20%20Tanenbaum_%20Bos.pdf"title="Abrir livro">    📖
             </a>
             <td align="center">
                 
