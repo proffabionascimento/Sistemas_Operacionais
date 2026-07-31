@@ -9,7 +9,7 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
 
 > 📘 **Certificação Linux para LPIC-1**  
 > Uirá Ribeiro • Novatec, 2015  
-> **[📖 Abrir Livro](LINK)**
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebooks/blob/main/Linux-LPIC_101%20-%20Ribeiro.pdf)**
 
 ---
 
