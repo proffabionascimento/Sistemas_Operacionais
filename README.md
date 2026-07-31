@@ -24,6 +24,7 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
 > **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebooks/blob/main/Sistemas%20Operacionais%20Modernos%20-%20%20Tanenbaum_%20Bos.pdf)**
 
 <br>
+
 ## 📚 Extras
 
 > 📘 **Registro do Windows-REGEDIT** | **[📖 Abrir]()**
