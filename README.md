@@ -7,21 +7,25 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
  
 ## 📚 Bibliografia
 
+> 📘 **Certificação Linux Essentials**  
+> Uirá Ribeiro • Novatec, 2015  
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebook/blob/main/Linux%20Essentials-Ribeiro.pdf)**
+
 > 📘 **Certificação Linux para LPIC-1**  
 > Uirá Ribeiro • Novatec, 2015  
-> **[📖 Abrir Livro]([https://github.com/proffabionascimento/Ebooks/blob/main/Linux-LPIC_101%20-%20Ribeiro.pdf](https://github.com/proffabionascimento/Ebook/blob/main/Linux-LPIC_101%20-%20Ribeiro.pdf))**
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebook/blob/main/Linux-LPIC_101%20-%20Ribeiro.pdf)**
 
 ---
 
 > 📘 **Windows Internals**  
 > Mark Russinovich et al. • Microsoft Press, 2021  
-> **[📖 Abrir Livro]([https://github.com/proffabionascimento/Ebooks/blob/main/Windows%20Internals%20Part%201_6th%20Edition.pdf](https://github.com/proffabionascimento/Ebook/blob/main/Windows%20Internals%20Part%201_6th%20Edition.pdf))**
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebook/blob/main/Windows%20Internals%20Part%201_6th%20Edition.pdf)**
 
 ---
 
 > 📘 **Sistemas Operacionais Modernos**  
 > Andrew S. Tanenbaum • Pearson, 2016  
-> **[📖 Abrir Livro]([https://github.com/proffabionascimento/Ebooks/blob/main/Sistemas%20Operacionais%20Modernos%20-%20%20Tanenbaum_%20Bos.pdf](https://github.com/proffabionascimento/Ebook/blob/main/Sistemas%20Operacionais%20Modernos%20-%20%20Tanenbaum_%20Bos.pdf))**
+> **[📖 Abrir Livro](https://github.com/proffabionascimento/Ebook/blob/main/Sistemas%20Operacionais%20Modernos%20-%20%20Tanenbaum_%20Bos.pdf)**
 
 <br>
 
