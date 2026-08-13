@@ -28,3 +28,5 @@ Este espaço foi criado para disponibilizar materiais de apoio e conteúdos comp
 ## 📚 Extras
 
 > 📘 **Registro do Windows-REGEDIT** | **[📖 Abrir](https://drive.google.com/file/d/1uuLqg-7nk17hBmS25AAuT4fgc28Vh52R/view?usp=sharing)**
+> 📘 **Apostila de Sistemas Operacionais** | **[📖 Abrir](https://drive.google.com/file/d/1Xzkhm1Tar8rPLHL9h6e6dii4M9sOb7Lf/view?usp=sharing)**
+
